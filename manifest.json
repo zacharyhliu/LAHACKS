@@ -8,7 +8,7 @@
       "<all_urls>",
       "https://accounts.google.com/o/oauth2/*"
     ],
-    "js": ["jquery-3.2.1.min.js","content.js"]
+    "js": ["jquery-3.2.1.min.js","replacead.js","content.js"]
   }
 ]
 }
