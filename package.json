@@ -1,0 +1,28 @@
+{
+  "name": "adspace",
+  "version": "1.0.0",
+  "description": "AdSpace - Use the space from Ads to add useful information",
+  "main": "content.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^18.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyhliu/LAHACKS.git"
+  },
+  "keywords": [
+    "ad"
+  ],
+  "author": "ZACKS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharyhliu/LAHACKS/issues"
+  },
+  "homepage": "https://github.com/zacharyhliu/LAHACKS#readme"
+}
